@@ -1,2 +1,10 @@
 # portfolio
-"Welcome to my personal portfolio website!"
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
